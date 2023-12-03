@@ -1,3 +1,5 @@
+This application makes a request to the Unsplash API provider. With this application, relevant images are shown on 1 page in return for the word entered. API requests are made with axios library. The useState structure is used for the set operations of the entered word.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
