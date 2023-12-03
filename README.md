@@ -1,5 +1,11 @@
 This application makes a request to the Unsplash API provider. With this application, relevant images are shown on 1 page in return for the word entered. API requests are made with axios library. The useState structure is used for the set operations of the entered word.
 
+Examples;
+![Cars](https://github.com/sercanisli/api-call/assets/128610192/178b46ae-6cd0-438d-b4cc-233c0822a376)
+
+![Apple](https://github.com/sercanisli/api-call/assets/128610192/350a37ce-edd7-413a-89c3-26f378f14990)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
